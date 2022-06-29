@@ -1,5 +1,5 @@
 # Welcome :wave:
-My name is Stefan de Nijs and I am student Software Engineering at Avans University of Applied Sciences.
+My name is Stefan de Nijs and I am a student Software Engineering at Avans University of Applied Sciences.
 
 ## :speech_balloon: Contact me at:
 
